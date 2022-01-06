@@ -1,0 +1,31 @@
+{
+  "movies": [
+    {
+      "id": 101,
+      "title": "Moonlight",
+      "posterPath": "../public/images/moonlight.jpeg"
+    },
+    {
+      "id": 102,
+      "title": "Titanic",
+      "posterPath": "../public/images/titanic.png"
+    },
+    {
+      "id": 103,
+      "title": "8mile",
+      "posterPath": "../public/images/8mile.jpeg"
+    },
+    {
+      "id": 104,
+      "title": "BellBoy",
+      "posterPath": "../public/images/bellboy.jpeg"
+    }
+  ],
+  "favourites": [
+    {
+      "id": 101,
+      "title": "Moonlight",
+      "posterPath": "../public/images/moonlight.jpeg"
+    }
+  ]
+}
